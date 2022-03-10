@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="52f55ff6-4a6e-4477-9c6b-025163c5af5a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gardhagen/joakim/wc/wc/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gardhagen/joakim/wc/wc/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/gardhagen/joakim/wc/wc/front-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/gardhagen/joakim/wc/wc/front-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gardhagen/joakim/wc/wc/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gardhagen/joakim/wc/wc/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gardhagen/joakim/wc/wc/front-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gardhagen/joakim/wc/wc/front-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gardhagen/joakim/wc/wc/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gardhagen/joakim/wc/wc/Controller.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1646899042911</updated>
       <workItem from="1646899044279" duration="2622000" />
-      <workItem from="1646901700473" duration="2677000" />
+      <workItem from="1646901700473" duration="3440000" />
     </task>
     <servers />
   </component>
