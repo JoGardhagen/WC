@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52f55ff6-4a6e-4477-9c6b-025163c5af5a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/gardhagen/joakim/wc/wc/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gardhagen/joakim/wc/wc/Controller.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,10 +38,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/META-INF" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\reporoot\javaDatabaser\WC\src\main\resources\META-INF" />
       <recent name="C:\reporoot\javaDatabaser\WC" />
     </key>
   </component>
@@ -72,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1646899042911</updated>
       <workItem from="1646899044279" duration="2622000" />
-      <workItem from="1646901700473" duration="3440000" />
+      <workItem from="1646901700473" duration="3758000" />
     </task>
     <servers />
   </component>
